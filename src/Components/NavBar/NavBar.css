@@ -1,0 +1,28 @@
+.navbar .login{
+    margin: 10px 10px;
+    padding: 5px 20px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    background-color: white;
+    font-weight: 600;
+    color: hsl(0, 0%, 75%);
+}
+.navbar .signup{
+    margin: 10px 10px;
+    padding: 5px 20px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    background-color:hsl(180, 66%, 49%);
+    color: white;
+    font-weight: 600;
+}
+.navbar-brand{
+    font-size: 26px;
+    font-weight: 800;
+}
+.nav-link{
+    font-weight: 600;
+    color: hsl(0, 0%, 75%);
+}
