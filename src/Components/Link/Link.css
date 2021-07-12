@@ -1,0 +1,61 @@
+.link{
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+    background-image: linear-gradient(to bottom, hsl(0, 0%, 100%) 50%, hsl(0, 0%, 75%) 50%);
+}
+.link .container{
+   
+    background-image: url('../../../Images//bg-boost-desktop.svg');
+    background-size: cover;
+    background-position: center;
+    background-color: hsl(257, 27%, 26%);
+    border-radius: 10px;
+}
+.link .url{
+    width: 100%;
+    margin: 30px 30px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 5px solid hsl(257, 9%, 70%);
+    outline: none;
+    font-weight: 800;
+}
+.link .col-md-9 , .col-md-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.link button{
+    color: white;
+    width: 100%;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    background-color: hsl(180, 66%, 49%);
+    border: 5px solid hsl(180, 66%, 49%);
+    outline: none;
+    border: none;
+}
+.link .results{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 30px;
+}
+.results .col-md-12{
+    background-color: white;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.results .button{
+    width: 100px;
+}
+.results .s-url{
+    color: hsl(180, 66%, 49%);
+    font-size: 22px;
+    font-weight: 800;
+}
