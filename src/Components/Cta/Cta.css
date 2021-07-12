@@ -1,0 +1,28 @@
+.cta{
+    background-image: url('../../../Images/bg-boost-desktop.svg');
+    width: 100%;
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(257, 27%, 26%);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.cta h2{
+    color: white;
+    font-size: 3rem;
+    font-weight: 700;
+}
+.cta button{
+    padding: 10px 20px;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    background-color: hsl(180, 66%, 49%);
+    color: white;
+    font-weight: 600;
+    padding-top: 10px;
+}

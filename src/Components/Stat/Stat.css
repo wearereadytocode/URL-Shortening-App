@@ -1,0 +1,51 @@
+.Stat{
+   
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    background-color: hsl(0, 0%, 75%);
+}
+.card .illustration{
+    background-color:hsl(260, 8%, 14%);
+    width: min-content;
+    padding: 25px 25px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: -50px;
+}
+.card .content{
+    position: static;
+    padding: 20px 20px;
+    margin-top: 50px;
+}
+.Stat .card{
+    border-radius: 10px;
+}
+.Stat .head{
+    margin-bottom:20vh;
+    margin-top: 10vh;
+}
+.Stat .head h2{
+    font-size: 3rem;
+    font-weight: 800;
+    letter-spacing: -1px;
+    color: hsl(260, 8%, 14%);
+}
+.Stat .head p{
+    font-size: 20px;
+    font-weight: 300;
+    color: hsl(0, 0%, 100%);
+}
+.Stat .content h4{
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.Stat .content p{
+   color: gray;
+}
+.Stat .second{
+    margin-top: 10vh;
+}
+.Stat .third{
+    margin-top: 20vh;
+}
