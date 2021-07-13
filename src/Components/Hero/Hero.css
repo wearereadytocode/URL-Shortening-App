@@ -29,3 +29,12 @@
 .Hero p{
     color:hsl(0, 0%, 75%);
 }
+
+
+
+@media only screen and (max-width: 400px) {
+    .Hero .row{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}

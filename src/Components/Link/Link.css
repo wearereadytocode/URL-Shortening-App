@@ -59,3 +59,13 @@
     font-size: 22px;
     font-weight: 800;
 }
+.link .container{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+@media only screen and (max-width: 400px) {
+    .results .col-md-12 {
+        display: flex;
+        flex-direction: column;
+    }
+}
