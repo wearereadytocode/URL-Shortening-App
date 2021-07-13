@@ -49,3 +49,11 @@
 .Stat .third{
     margin-top: 20vh;
 }
+@media only screen and (max-width: 400px) {
+    .Stat .second{
+        margin-top: 100px;
+    }
+    .Stat .third{
+        margin-top: 100px;
+    }
+}
